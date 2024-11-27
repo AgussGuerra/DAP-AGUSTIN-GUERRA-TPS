@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90606597375",
+    "project_id": "dap-agustin",
+    "storage_bucket": "dap-agustin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90606597375:android:0e7c16e3fc1762c01988ca",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_o8GGi7q4KeLlcAQ_nY3kQnhkPy8gM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
